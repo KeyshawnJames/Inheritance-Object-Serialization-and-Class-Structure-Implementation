@@ -1,7 +1,7 @@
 # Inheritance-Object-Serialization-and-Class-Structure-Implementation
 The objective of this assignment is to design a class hierarchy representing various forms of transportation using inheritance and to implement them in Java. The project also emphasizes object serialization, managing unique serial numbers for each type of vehicle, and testing object equality, all while adhering to proper access control and constructor principles.
 
-There are 7 packages in this project, each representing different types of vehicles.
+There are 7 packages in this project, each representing different types of vehicles:
 
   **Driver Package:** There are two driver classes. The first driver tests the core functionality of the classes, including object creation, equality testing, and identifying the least and most expensive Aircraft objects. The second driver focuses on expanding the implementation by adding a method to copy objects, testing deep object duplication without using explicit type checks or cloning, as required for Part II.
   
